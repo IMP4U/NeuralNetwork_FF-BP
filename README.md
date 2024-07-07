@@ -3,3 +3,4 @@ Developed a neural network to classify points inside a custom geometric shape (a
 
 ![Figure_1](https://github.com/IMP4U/NeuralNetwork_FF-BP/assets/116965072/e9adf500-84a3-41f6-8ce3-2975d3eaf894)
 
+![Figure_1_optimized](https://github.com/IMP4U/NeuralNetwork_FF-BP/assets/116965072/51186fa2-9eb3-4c30-9d7d-5aa16840be69)
