@@ -9,3 +9,6 @@ Developed a neural network to classify points inside a custom geometric shape (a
 
 <img src="C:\Users\avivp\OneDrive\שולחן העבודה\Git Projects for CV\Neural Networks\FeedForward\images\Figure_1.png" width="480" height="360" />
 
+<img src="https://github.com/IMP4U/NeuralNetwork_FF-BP/assets/116965072/e9adf500-84a3-41f6-8ce3-2975d3eaf894" width="480" height="360" />
+
+
