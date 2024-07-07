@@ -38,6 +38,10 @@ This image visualizes the activation patterns of the neurons in the hidden layer
 
 
 
+**Outcome:** Successfully trained the neural network to achieve a high classification accuracy and visualized the results.
+
+
+
 
 
 
