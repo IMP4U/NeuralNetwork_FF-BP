@@ -14,6 +14,16 @@ This image displays the geometric shape used as the basis for a neural network c
 
 __Description:__
 This image demonstrates the classification results of a neural network trained to identify points as inside or outside a star shape
+<br><br><br>
+
+
+<img src="https://github.com/IMP4U/NeuralNetwork_FF-BP/assets/116965072/e250bfe5-5b98-4b61-8966-39db7270a992" width="400" height="360" />
+__Description:__
+This  graph provides a visual representation of the neural network's error rate progression over multiple training epochs.
+<br><br><br>
+
+
+
 
 
 
