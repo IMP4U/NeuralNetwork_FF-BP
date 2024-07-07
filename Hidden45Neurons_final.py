@@ -176,6 +176,8 @@ def main():
             hidden_out_y = [hidden_out[image][i][1] for i in range(len(hidden_out[image]))]
             plt.plot(hidden_out_x, hidden_out_y, 'r+')
     plt.legend(["inside star", "outside star"])
+    # Adjust layout to prevent overlap
+    plt.subplots_adjust(left=0.05, right=0.95, top=0.9, bottom=0.1, wspace=0.7, hspace=0.7)
     fig.suptitle('Classification of neurons in hidden layer', ha='center', fontsize=16)
     plt.show(block=False)
 
