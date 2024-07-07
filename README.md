@@ -7,6 +7,7 @@ ________________________________________________________________________________
 <br>
 
 <img src="https://github.com/IMP4U/NeuralNetwork_FF-BP/assets/116965072/e9adf500-84a3-41f6-8ce3-2975d3eaf894" width="480" height="360" />
+<br>
 __Description:__
 This image displays the geometric shape used as the basis for a neural network classification task. 
 <br><br><br>
