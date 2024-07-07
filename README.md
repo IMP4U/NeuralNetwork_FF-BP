@@ -1,6 +1,6 @@
 # Neural Network - Geometric Classification
 Developed a neural network to classify points inside a custom geometric shape (a star formed by two triangles). Implemented feedforward and backpropagation algorithms for training the neural network. Utilized NumPy for numerical operations, Matplotlib for data visualization, and Shapely for geometric operations.
-
+<br>
 **Outcome:** Successfully trained the neural network to achieve a high classification accuracy and visualized the results.
 _________________________________________________________________________________________
 
