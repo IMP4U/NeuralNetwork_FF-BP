@@ -8,9 +8,6 @@ ________________________________________________________________________________
 __Description:__
 This image displays the geometric shape used as the basis for a neural network classification task. 
 
-
-
-
 <img src="https://github.com/IMP4U/NeuralNetwork_FF-BP/assets/116965072/b9e10364-b931-4a96-9cd1-593adb868da4" width="480" height="360" />
 
 __Description:__
